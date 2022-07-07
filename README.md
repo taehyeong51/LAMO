@@ -1,7 +1,7 @@
 # LAMO : LAndscape or Me Only with Mask2former and LaMa
 ## 소개
 ### 당신의 더욱 완벽한 추억을 위해
-by Taehyeong Kim & Minji Kang    
+by Taehyeong Kim & Minji Kang [@minjikang-cod](https://github.com/minjikang-cod)   
     
 <div align="center">
 <p align"center"><img src="/image/demo.gif" width="600" height="600"></p>
@@ -11,8 +11,7 @@ by Taehyeong Kim & Minji Kang
 
 
 
-Mask2Former(MMDetection) : https://github.com/open-mmlab/mmdetection.git  
-Lama : https://github.com/saic-mdal/lama  
+
 
 <div align="center">
 
@@ -23,6 +22,8 @@ Lama : https://github.com/saic-mdal/lama
 누구든 코랩을 통해 데모를 체험해보실 수 있습니다 !
 </div>
 
+Mask2Former(MMDetection) : https://github.com/open-mmlab/mmdetection.git  
+Lama : https://github.com/saic-mdal/lama  
 
 ## 방법
 1. Segmentation  
