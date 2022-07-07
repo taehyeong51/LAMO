@@ -31,7 +31,7 @@ Lama : https://github.com/saic-mdal/lama
 2. Inpainting  
     [LaMa](https://github.com/saic-mdal/lama) 로 masking을 통해 지워진 영역의 이미지를 새롭게 복원하였습니다.
 ## 의의
-1. 기존 어플리케이션([Samsung AI Eraser](https://www.samsung.com/africa_en/support/mobile-devices/how-to-remove-unwanted-objects-from-photos-on-your-galaxy-phone/), [Hama](https://www.hama.app/ko))과 다르게, instance segmentation 및 object detection을 통해 사용자의 별다른 영역 지정 없이도 매우 정확한 mask 지정이 가능합니다.
+1. 기존 어플리케이션([Samsung AI Eraser](https://www.samsung.com/africa_en/support/mobile-devices/how-to-remove-unwanted-objects-from-photos-on-your-galaxy-phone/), [Hama](https://www.hama.app/ko))에서는 지울 영역을 직접 지정해줬어야 했습니다. LAMO는 instance segmentation 및 object detection을 통해 사용자의 별다른 영역 지정 없이도 매우 정확한 mask 지정이 가능합니다.
 2. segmentation mask에 대해 팽창 연산을 수행하여 주변 배경까지 포함시키는 mask를 생성해 더욱 자연스러운 inpainting이 가능합니다.
 3. 사용자가 지우고 싶은 객체를 선택하도록 입력을 받아 활용성을 증가시켰습니다.  
 
