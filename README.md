@@ -15,7 +15,7 @@ by Taehyeong Kim & Minji Kang [@minjikang-cod](https://github.com/minjikang-cod)
 
 <div align="center">
 
-[[More Details]](https://wry-phalange-187.notion.site/LAMO-218edf4f99fd4574b176a2c4371b345f)  
+[[More Details]](https://taehyeong51.notion.site/LAMO-218edf4f99fd4574b176a2c4371b345f)  
 더욱 자세한 프로젝트 과정을 노션 페이지에서 확인해보세요!   
   
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13LhTvB7RF2e5_JNEcdVgZRLmQLt7eBQJ?usp=sharing)   
