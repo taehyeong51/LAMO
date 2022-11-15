@@ -20,6 +20,10 @@ by Taehyeong Kim & Minji Kang [@minjikang-cod](https://github.com/minjikang-cod)
   
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13LhTvB7RF2e5_JNEcdVgZRLmQLt7eBQJ?usp=sharing)   
 누구든 코랩을 통해 데모를 체험해보실 수 있습니다 !
+
+[[How to use?]](https://youtu.be/r233FyOCbW8)
+
+어떻게 사용하는지 youtube를 통해 확인해보세요!
 </div>
 
 Mask2Former(MMDetection) : https://github.com/open-mmlab/mmdetection.git  
